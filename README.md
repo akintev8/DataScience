@@ -1,2 +1,2 @@
-# -DS-ML
-Набор тренировочных проектов по Data Science и Machine Learning
+# DataScience
+Набор тренировочных проектов по Data Science.
